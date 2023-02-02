@@ -3,3 +3,4 @@ chess bot repository
 
 version history:
 1. 44-22500 (released 11/01/2023), ~2150 bullet, ~2180 blitz, ~2200 rapid, ~2050 classic, ~2200 correspondence
+2. 128x10-61800 (released 1/02/2023), ~2200 bullet, ~2250 blitz, ~2250 rapid, ~2050 classic, ~2200 correspondence
